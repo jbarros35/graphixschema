@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: MercadonaDB
-Bundle-SymbolicName: MercadonaDB;singleton:=true
+Bundle-Name: GraphixSchemaDB
+Bundle-SymbolicName: GraphixSchemaDB;singleton:=true
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: mercadonadb.Activator
+Bundle-Activator: graphixSchemaDBdb.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.resources;bundle-version="3.8.1",
  org.eclipse.core.runtime,
