@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/groovy-all-2.1.5.jar"/>
+	<classpathentry kind="lib" path="libs/javaparser-1.0.8.jar"/>
+	<classpathentry kind="lib" path="libs/jdom-2.0.5-contrib.jar"/>
+	<classpathentry kind="lib" path="libs/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="libs/jgraph-5.13.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/jgrapht-core-0.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/jgrapht-ext-0.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/jgraphx-2.0.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="libs/tuprolog.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="libs/batch.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
