@@ -352,7 +352,7 @@ class DBaseRuleLoader {
 		Date init = new Date()
 		println init
 		DBaseRuleLoader loader = new DBaseRuleLoader()
-		loader.connect("jdbc:oracle:thin:@dbserver:1521:xe", "TEMUCO_PLUGIN", "TEMUCO_PLUGIN")
+		loader.connect("jdbc:oracle:thin:@dbserver:1521:xe", "user", "password")
 		loader.generatePrologTree()
 		Date finish = new Date()
 		def duration = TimeCategory.minus(finish, init)
